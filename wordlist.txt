@@ -1,0 +1,10 @@
+admin
+login
+backup
+config
+secret
+hidden
+test
+index.php
+backup.zip
+admin panel
