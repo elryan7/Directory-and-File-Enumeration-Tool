@@ -47,9 +47,3 @@ Status: 200 OK
 - `wordlist.txt`: Sample wordlist for enumeration
 - `requirements.txt`: List of required Python libraries
 - `enum_report.txt`: Output report file
-
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue on GitHub.
-
-## Disclaimer
-This tool is for educational purposes only. Use it only on servers you have explicit permission to test. Unauthorized use is illegal.
